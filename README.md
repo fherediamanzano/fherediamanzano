@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**fherediamanzano/fherediamanzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I´m working on my path into cloud technology solutions
 
-Here are some ideas to get you started:
+##### NOW
+- I just finished data science course at **CoderHouse**
+- Now improving my portfolio as my personal proyect 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🌱 I’m currently learning **AWS**
+- 👯 I’m looking to collaborate on **Cloud Solutions**
+- 📫 Reach me: [in/herediafrancisco/](https://www.linkedin.com/in/herediafrancisco/)
+- 😄 Pronouns: Fran
+- ⚡ Fun fact: I once joined a drama club 🎭
+
